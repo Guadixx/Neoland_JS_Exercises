@@ -141,15 +141,3 @@ function repeatCounter(paramRept){ //paramRept es el string o argumento que le d
   return emptyObject
 }
 console.log(repeatCounter(counterWords));
-
-
-
-//for (var item of nameFinder);{
-//  console.log(item); //ejemplo: item es igual a peter y paramList es el array completo basicamente nameFinder
- // if (item == paramItem) {//is peter the item you want 
-  //  console.log(paramList.indexOf(item))
-  //  return true 
-  //} else {
-   // return false 
-  //}
-//}
